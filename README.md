@@ -1,6 +1,7 @@
 🌾 AgroStar – Smart Farming Assistant App
 AgroStar is a mobile application designed to support and empower farmers by providing an intuitive and localized platform for agricultural assistance. This app offers key features such as community engagement, user profiles, and access to essential resources.
 
+
 📱 Features
 👤 User Authentication – Login system to personalize user experience.
 
@@ -12,6 +13,7 @@ AgroStar is a mobile application designed to support and empower farmers by prov
 
 📦 Offline Assets – JSON-based animations and data for efficient offline use.
 
+
 🛠️ Tech Stack
 Language: Java/Kotlin
 
@@ -22,6 +24,7 @@ Build Tool: Gradle (Kotlin DSL)
 UI: Android Views with Lottie animations
 
 Backend: Firebase (using google-services.json)
+
 
 🏗️ Project Structure
 css
@@ -38,13 +41,14 @@ AgroStar/
 ├── build.gradle.kts
 └── settings.gradle.kts
 
+
 🚀 Getting Started
 Clone the repository
 
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/AgroStar.git
+git clone https://github.com/yashbhole3010/AgroStar.git
 cd AgroStar
 Open in Android Studio
 
